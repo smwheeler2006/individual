@@ -1,3 +1,5 @@
-# learning objectives
--github
+# Learning Objectives
+-Remotes
+-GitHub
+-Branches
 
